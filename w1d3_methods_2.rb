@@ -1,6 +1,6 @@
 def sum(first, second)
+  return first + second
   "#{first + second} is the sum."
-  return
 end
 
 def add10(first, second = 10)
